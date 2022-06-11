@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/travel-app/static/css/main.073c9b0a.css",
-    "main.js": "/travel-app/static/js/main.6b486b93.js",
-    "static/js/787.d06b42a6.chunk.js": "/travel-app/static/js/787.d06b42a6.chunk.js",
-    "static/media/logo.svg": "/travel-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/travel-app/static/css/main.1e53cec2.css",
+    "main.js": "/travel-app/static/js/main.f45878c9.js",
     "index.html": "/travel-app/index.html",
-    "main.073c9b0a.css.map": "/travel-app/static/css/main.073c9b0a.css.map",
-    "main.6b486b93.js.map": "/travel-app/static/js/main.6b486b93.js.map",
-    "787.d06b42a6.chunk.js.map": "/travel-app/static/js/787.d06b42a6.chunk.js.map"
+    "static/media/calendar.svg": "/travel-app/static/media/calendar.60ed07522589baceca88.svg",
+    "static/media/search.svg": "/travel-app/static/media/search.a83e56eef81aafb8814e.svg",
+    "static/media/arrow-down.svg": "/travel-app/static/media/arrow-down.9785f9daf7b690664fea.svg",
+    "main.1e53cec2.css.map": "/travel-app/static/css/main.1e53cec2.css.map",
+    "main.f45878c9.js.map": "/travel-app/static/js/main.f45878c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6b486b93.js"
+    "static/css/main.1e53cec2.css",
+    "static/js/main.f45878c9.js"
   ]
 }
