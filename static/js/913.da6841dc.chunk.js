@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktravel_app=self.webpackChunktravel_app||[]).push([[913],{913:function(e,n,r){r.r(n),r.d(n,{default:function(){return c}});var s=r(791),a=r(871),t=r(703),u=r(184);function c(){return(0,u.jsxs)(u.Fragment,{children:[(0,u.jsx)("h2",{children:"TripPage"}),(0,u.jsx)(s.Suspense,{fallback:(0,u.jsx)(t.Z,{}),children:(0,u.jsx)(a.j3,{})})]})}}}]);
+//# sourceMappingURL=913.da6841dc.chunk.js.map

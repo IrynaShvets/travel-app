@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/836.a35d3db8.chunk.js","mappings":"sKAAe,SAASA,IACtB,OAAO","sources":["views/BookingsPage.js"],"sourcesContent":["export default function BookingsPage() {\r\n  return <h2>BookingsPage</h2>;\r\n}\r\n"],"names":["BookingsPage"],"sourceRoot":""}

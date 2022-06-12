@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktravel_app=self.webpackChunktravel_app||[]).push([[438],{438:function(e,n,r){r.r(n),r.d(n,{default:function(){return a}});var t=r(184);function a(){return(0,t.jsx)(t.Fragment,{children:(0,t.jsx)("h2",{children:"RegisterPage"})})}}}]);
+//# sourceMappingURL=438.74d1e73d.chunk.js.map

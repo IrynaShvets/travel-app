@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktravel_app=self.webpackChunktravel_app||[]).push([[836],{836:function(e,n,r){r.r(n),r.d(n,{default:function(){return u}});var t=r(184);function u(){return(0,t.jsx)("h2",{children:"BookingsPage"})}}}]);
+//# sourceMappingURL=836.a35d3db8.chunk.js.map
